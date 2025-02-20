@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## About me
+
+I am a Master student in EPFL 👩‍🔬  who is passionate about computational chemistry. 
+
+Thanks for dropping by :shipit:
+
 <!--
 **erubbia/erubbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
