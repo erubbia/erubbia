@@ -1,10 +1,4 @@
-## Hi there 👋
-
-## :shipit:
-
-I am a Master student in EPFL 👩‍🔬  who is passionate about computational chemistry. 
-
-Thanks for dropping by !
+Hi there :shipit:
 
 <!--
 **erubbia/erubbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
